@@ -1,0 +1,23 @@
+a=("basavaraja")
+b=("to the")
+c=("coding world")
+print("hello",a,"wellcome", b,"python",c)
+
+
+name=input("enter the your name:-")
+age=int(input("enter the age:-"))
+phoneno=int(input("enter the your phone no:-"))
+email=input("enter the your email id:-")
+address=input("enter your address:-")
+city=input("enter the your city:-")
+state=input("entre the your state:-")
+pinno=int(input("enter the your arae pin code :-"))
+print(" name :-",name)
+print(" age :-", age)
+print(" phone no:-",phoneno)
+print(" email :-",email)
+print("address:-",address)
+print(" city :-",city)
+print(" state :-",state)
+print(" area pin code:-",pinno)
+

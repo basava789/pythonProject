@@ -1,0 +1,5 @@
+login_locetor_xpath="//a[@class='ico-login']"
+email_locetore_id="Email"
+password_locetore_id="Password"
+log_btn_locetore_xpath="//button[normalize-space()='Log in']"
+mesg_locetore_xpat="//div[@class='message-error validation-summary-errors']"
