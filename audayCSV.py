@@ -35,9 +35,9 @@ def test_login(user_name, password):
        print(mes1.text)
     except Exception as e:
          print("error 1 =", e)
-    link=driver.find_elements(By.TAG_NAME, "a")
-    print("Total num of links is :-",len(link))
-    for links in link:
-        print(links.text,"=",links.get_attribute('href'))
+    # link=driver.find_elements(By.TAG_NAME, "a")
+    # print("Total num of links is :-",len(link))
+    # for links in link:
+    #     print(links.text,"=",links.get_attribute('href'))
     time.sleep(4)
     driver.close()
